@@ -1,6 +1,5 @@
 # Intro to C++ Final Project
-- Code was written in C130, C++ as the final project instead of an exam
-- Taken Fall 2022 (sophmore at MVCC)
+- Code was written for C130 in C++
 
 ## Code Requirements
 - Encrypt a string entered by user
@@ -16,5 +15,4 @@
 - Arrays
 
 Matthew Townsend
-> Graduate Cybersecurity Student 
-3/3/25
+
